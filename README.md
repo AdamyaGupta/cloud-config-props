@@ -1,1 +1,1 @@
-Properties files.
+Properties files
